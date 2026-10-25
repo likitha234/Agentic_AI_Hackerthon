@@ -1,0 +1,22 @@
+
+{
+  "project_name": "Demo Python API",
+  "project_template": "Python API",
+  "runtime": "Python 3.11",
+  "dependency_file": "requirements.txt",
+  "start_command": "python app.py",
+  "health_check_path": "/health",
+  "environment": "development-sandbox",
+  "required_services": [],
+  "permissions": [
+    "read_repository",
+    "install_project_dependencies",
+    "run_application",
+    "run_health_check"
+  ],
+  "seed_data": {
+    "enabled": true,
+    "type": "synthetic",
+    "contains_secrets": false
+  }
+}
