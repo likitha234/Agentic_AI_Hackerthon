@@ -1,5 +1,4 @@
-# Agentic_AI_Hackerthon
-Demo repository for testing AI-powered sandbox provisioning
+
 # Demo Python API
 
 A sample project for testing the Agentic AI Developer Sandbox Bootstrapper hackathon.
